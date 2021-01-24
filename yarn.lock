@@ -2526,10 +2526,10 @@
   resolved "https://registry.yarnpkg.com/@types/broccoli-plugin/-/broccoli-plugin-1.3.0.tgz#38f8462fecaebc4e09a32e4d4ed1b9808f75bbca"
   integrity sha512-SLk4/hFc2kGvgwNFrpn2O1juxFOllcHAywvlo7VwxfExLzoz1GGJ0oIZCwj5fwSpvHw4AWpZjJ1fUvb62PDayQ==
 
-"@types/ember@3.1.1":
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/@types/ember/-/ember-3.1.1.tgz#401810fa3ba911855d609d334ea77990b9b94802"
-  integrity sha512-8Yu+7qvcRA80NXuJrgii25hi4B/P3lrCug34O2ksPNHk2z1RaLnjKSj0cptQXMQAMnVtM0Vye8lAwUle47/M9w==
+"@types/ember@3.16.3":
+  version "3.16.3"
+  resolved "https://registry.yarnpkg.com/@types/ember/-/ember-3.16.3.tgz#e2e9c24e56d8161ffcdbfa16d6a1e7e032bb557b"
+  integrity sha512-KkRs2F2dv6CuNfj9GFpJULL+8g+foJNEkOwSIqf5+RxaHjsg9NSVg9phTK4RItbndMyECCtOGOwWQAJ4cQgiiA==
   dependencies:
     "@types/ember__application" "*"
     "@types/ember__array" "*"
